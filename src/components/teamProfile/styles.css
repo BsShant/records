@@ -1,0 +1,20 @@
+
+.team-image{
+    margin-right: 5px;
+}
+.team-info {
+}
+.team-name {
+  font-family: "Nexa Bold";
+  text-transform: uppercase;
+  font-size: 24px;
+  text-align: left;
+}
+
+.team-position {
+  text-align: left;
+  font-family: "Nexa Light";
+}
+.team-profile {
+    margin-bottom: 40px;
+}
